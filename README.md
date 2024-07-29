@@ -160,7 +160,7 @@ Estas son algunas de las principales tecnologías con las cuales he trabajado.
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/percytaquila/">
+      <a href="https://www.linkedin.com/in/percytaquila/" target="_blank">
         <img src="./img/LinkedIn.svg" width="48" height="48" alt="LinkedIn" />
       </a>
       <br>LinkedIn
