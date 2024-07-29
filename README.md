@@ -117,7 +117,7 @@ Estas son algunas de las principales tecnologías con las cuales he trabajado.
   <tr>
     <td align="center" width="96">
       <a href="#percytaquila">
-        <img src="./img/sqlServer.svg width="48" height="48" alt="SQL-Server" />
+        <img src="./img/sqlServer.svg" width="48" height="48" alt="SQL-Server" />
       </a>
       <br>SQL Server
     </td>
