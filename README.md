@@ -127,6 +127,12 @@ Estas son algunas de las principales tecnologías con las cuales he trabajado.
       </a>
       <br>MySQL
     </td>
+      <td align="center" width="96">
+      <a href="#percytaquila">
+        <img src="./img/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
   </tr>
 </table>
 
