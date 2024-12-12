@@ -1,6 +1,6 @@
 ## 👋 Hola! Mi nombre es Percy
 
-Soy Desarrollador Backend con experiencia en lenguajes de programación como C#, Python, PHP, Java y en bases de datos SQL Server, MySQL. Apasionado por la programación y la ciberseguridad, en el día a día me capacito de manera autodidacta para poder expandir mis conocimientos y de esta manera obtener nuevas habilidades y descubrir nuevos desafíos.
+Soy Desarrollador Backend con experiencia en lenguajes de programación como C#, Python, PHP, Java y en bases de datos SQL Server, MySQL, PostgreSQL. Apasionado por la programación y la ciberseguridad, en el día a día me capacito de manera autodidacta para poder expandir mis conocimientos y de esta manera obtener nuevas habilidades y descubrir nuevos desafíos.
 
 ## :muscle: Tecnologías
 
